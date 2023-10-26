@@ -1,7 +1,5 @@
 ---
 description: Browse through historical editions of the ENS DAO Newsletter.
-cover: .gitbook/assets/Virtual Background.png
-coverY: 0
 ---
 
 # Welcome

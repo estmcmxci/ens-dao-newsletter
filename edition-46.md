@@ -1,7 +1,5 @@
 ---
 description: 10/24/2023
-cover: .gitbook/assets/Virtual Background.png
-coverY: 0
 ---
 
 # EDITION #46
