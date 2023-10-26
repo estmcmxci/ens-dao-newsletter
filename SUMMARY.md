@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Welcome to the Archive!](README.md)
+* [Welcome](README.md)
+* [EDITION #46](edition-46.md)
