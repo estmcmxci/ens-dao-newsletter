@@ -1,5 +1,5 @@
 ---
-description: 10/10/23
+description: 10/10/2023
 ---
 
 # ENS DAO Newsletter #45
