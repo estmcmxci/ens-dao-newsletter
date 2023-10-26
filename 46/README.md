@@ -6,7 +6,7 @@ description: 10/24/2023
 
 <figure><img src=".gitbook/assets/DAO News (15x5) (1).jpg" alt=""><figcaption></figcaption></figure>
 
-⚠️ **NOTICE:** **ENS Small Grants is live**. The updated voting period is set from **October 24 to October 30; payout dates to be announced (TBA).** The prize structure awards 5 ETH, 3 ETH, and 2 ETH for the 1st, 2nd, and 3rd places respectively in both categories, while the 4th to 10th place winners in the Ecosystem category will receive 0.7 ETH each and in the Public Goods category will receive 0.3 ETH each. Vote now at [ensgrants.xyz](https://ensgrants.xyz).
+> ⚠️ **NOTICE:** **ENS Small Grants is live**. The updated voting period is set from **October 24 to October 30; payout dates to be announced (TBA).** The prize structure awards 5 ETH, 3 ETH, and 2 ETH for the 1st, 2nd, and 3rd places respectively in both categories, while the 4th to 10th place winners in the Ecosystem category will receive 0.7 ETH each and in the Public Goods category will receive 0.3 ETH each. Vote now at [ensgrants.xyz](https://ensgrants.xyz).
 
 \_
 
