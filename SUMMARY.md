@@ -1,3 +1,3 @@
 # Table of contents
 
-* [ENS DAO Newsletter](README.md)
+* [Welcome to the ENS DAO Archive](README.md)
