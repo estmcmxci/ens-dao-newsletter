@@ -8,18 +8,7 @@ description: >-
 
 ![](https://github.com/estmcmxci/ens-dao-newsletter/assets/81047229/f1878b39-4d56-4f66-b46a-e359901cef2f)
 
-{% hint style="info" %}
-**Summary:**
-
-* **Project Title:** ENS DAO Newsletter
-* **Project Lead:** Marcus @estmcmxci
-* **Vintage Date:** 03/01/2022
-* **Description:** A bi-weekly summary of the latest news and developments from ENS Labs, ENS DAO and the ENS community
-* **Format:** Published bi-weekly (Tuesday) at 11 AM Eastern Time.
-* **Distribution:** The forum, ENS socials (tl;dr), and Paragraph.
-{% endhint %}
-
-## What is the ENS DAO Newsletter?
+## ⭐️ What is the ENS DAO Newsletter?
 
 The ENS DAO Newsletter is a bi-weekly summary of the latest developments within ENS Labs, ENS DAO, and the broader ENS community. Since its vintage, It has become a core source for consistent and informative updates aimed at keeping key stakeholders up-to-date.
 
@@ -29,7 +18,7 @@ Additionally, the newsletter is open to including editorials and exploring other
 
 
 
-### Mission
+### 📌 Mission
 
 ENS DAO Newsletter's will continue to serve consistent and informative updates to the community, as well as creating a comprehensive and accessible archive of past editions. The Newsletter has a history of being the source of the most pertinent, results-driven developments in ENS and the broader Ethereum ecosystem and we look to continue that effort.
 
@@ -39,7 +28,17 @@ By prioritizing archival content and strategic accessibility, the ENS DAO Newsle
 
 
 
-### Contact Information
+### 📝 [Resources](https://ensdao.org/)
+
+* [ENS DAO Basics](https://basics.ensdao.org/)
+* [Support Docs](https://support.ens.domains/docs)
+* [Governance Docs](https://docs.ens.domains/v/governance/)
+* [ENS Agora](https://agora.ensdao.org/)
+* [Give Feedback](https://ens.canny.io)
+
+
+
+### ☎️ Contact Information
 
 For questions or clarifications:
 
