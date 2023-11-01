@@ -1,7 +1,5 @@
 ---
-description: >-
-  The ENS DAO Archive serves as a repository of the bi-weekly newsletter digest
-  of the ENS ecosystem.
+description: The ENS DAO Archive serves as a repository of the bi-weekly newsletter digest.
 ---
 
 # Welcome to the ENS DAO Archive
