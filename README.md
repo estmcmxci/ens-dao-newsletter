@@ -8,7 +8,7 @@ description: >-
 
 ![](https://github.com/estmcmxci/ens-dao-newsletter/assets/81047229/f1878b39-4d56-4f66-b46a-e359901cef2f)
 
-## ⭐️ What is the ENS DAO Newsletter?
+## What is the ENS DAO Newsletter?
 
 The ENS DAO Newsletter is a bi-weekly summary of the latest developments within ENS Labs, ENS DAO, and the broader ENS community. Since its vintage, It has become a core source for consistent and informative updates aimed at keeping key stakeholders up-to-date.
 
