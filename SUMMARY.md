@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [EDITION #47](edition-47.md)
 * [EDITION #46](edition-46.md)
 * [EDITION #45](edition-45.md)
 * [EDITION #44](edition-44.md)
