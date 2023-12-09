@@ -20,6 +20,10 @@ layout:
 
 # Wild Futures with Maggie Love
 
+{% hint style="info" %}
+Guest post by leticiaferraz.eth — 12.8.23
+{% endhint %}
+
 ### SheFi's Tangible Impact
 
 As the digital currency landscape continues to evolve, pioneers such as Maggie Love are at the forefront, leading the way toward financial and career empowerment through innovative educational platforms. Love developed her passion for blockchain technology during her tenure at IBM in 2016 and has transformed SheFi from an idea into a powerful education and advocacy platform that champions inclusivity in frontier industries such as Decentralized Finance (DeFi), and Artificial Intelligence.&#x20;
